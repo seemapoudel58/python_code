@@ -1,3 +1,10 @@
+#Based on user's order, work out their final bill.
+#Small Pizza= Rs.15
+#Medium Pizza= Rs.20
+#Large Pizza= Rs.25
+#Pepperoni for Small Pizza: +RS2
+#Pepperoni for Medium or Large Pizza: +RS3
+#Extra cheese for any size pizza: +RS1
 print("Welcome to Pizza Deliveries!")
 size = input("What is the size of the pizza you want? S, M, or L :\n")
 add_pepperoni = input("Do you want to add pepperoni? Y or N:\n")
