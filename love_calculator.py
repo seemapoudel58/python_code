@@ -1,3 +1,7 @@
+# For love score less than 10 or greater than 90, the message should be:"Your score is x, you go together like coke and mentos."
+#For love score between 40 and 50, the message should be: "Your score is y, you are alright together."
+#otherwise, the message will just be their score. e.g: "Your score is z."
+
 print("Welcome to a love calculator!")
 n1 = input("Enter the First Person name:")
 n2 = input("Enter the Second Person name:")
