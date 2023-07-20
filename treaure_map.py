@@ -1,4 +1,4 @@
-# write a program which will mark a spot with an X.
+# write a program which will mark a spot with an X. The first digit represent horizontal position and the second digit represent the vertical one .
 row1= ["⊙","⊙","⊙"]
 row2= ["⊙","⊙","⊙"]
 row3= ["⊙","⊙","⊙"]
