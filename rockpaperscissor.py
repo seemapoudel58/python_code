@@ -28,7 +28,7 @@ scissor = '''
 '''
 game_images = [rock, paper, scissor]
 user_choice = int(input(
-    "What do you choose? Type 0 for rock and 1 for paper and 2 for scissors\n").lower())
+    "What do you choose? Type 0 for rock and 1 for paper and 2 for scissors\n"))
 if (user_choice >= 3 or user_choice < 0):
     print("You typed an invalid number, you lose!")
 else:
